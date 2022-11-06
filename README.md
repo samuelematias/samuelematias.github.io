@@ -12,3 +12,19 @@ Check it out at [Samuel's Braindump](https://braindump.samuelematias.com/).
 ## How it works
 
 The [notes](notes/) folder contains [Org mode](https://orgmode.org) files that use [Org-roam](https://www.orgroam.com) to link to each other. I edit them locally using Emacs. On push Emacs is installed on CI, [ox-hugo](https://ox-hugo.scripter.co) generates hugo pages from the org files.
+
+### Convert the .org to .md files
+
+Open the terminal in the project root and execute this command bellow:
+
+```bash
+make org2hugo
+```
+
+### Execute this project locally
+
+Open the terminal in the project root and execute this command bellow:
+
+```bash
+hugo server --buildDrafts --navigateToChanged
+```
