@@ -4,7 +4,7 @@
 #+title: 🇺🇸 Start your Emacs as a service on macOS startup
 #+filetags: :eng:emacs:macos:
 
-⭐ [[http://localhost:1313/about/][Featured post]] ⭐
+⭐ [[https://braindump.samuelematias.com/about/][Featured post]] ⭐
 
     #+BEGIN_QUOTE
     To read this content in portuguese, click [[id:89B3F87E-A9BD-4C29-A452-654288394A5C][here]].

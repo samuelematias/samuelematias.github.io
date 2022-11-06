@@ -4,7 +4,7 @@
 #+title: 🇧🇷 Inicie seu emacs como um serviço na incialização do macOS
 #+filetags: :ptbr:emacs:macos:
 
-⭐ [[http://localhost:1313/about/][Featured post]] ⭐
+⭐ [[https://braindump.samuelematias.com/about/][Featured post]] ⭐
 
     #+BEGIN_QUOTE
     Para ler esse conteúdo em inglês, clique [[id:F79E68F6-9690-46DF-983A-7C0A2E93098E][aqui]].

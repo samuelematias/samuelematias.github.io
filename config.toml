@@ -1,4 +1,4 @@
-baseURL = "https://braindump.samuelematias.com"
+baseURL = "https://braindump.samuelematias.com/"
 languageCode = "en-us"
 title = "Samuel's braindump"
 theme = "interlude"
