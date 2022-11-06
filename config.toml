@@ -1,0 +1,11 @@
+baseURL = "https://braindump.samuelematias.com"
+languageCode = "en-us"
+title = "Samuel's braindump"
+theme = "interlude"
+pygmentsStyle = "dracula"
+
+[params]
+email = "contact@samuelematias.com"
+footer = "Built with 💜 with Org-mode and Hugo."
+entrypoint = "/about"
+repo = "https://github.com/samuelematias/braindump"

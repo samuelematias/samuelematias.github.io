@@ -1,0 +1,4 @@
+
+[submodule "themes/interlude"]
+	path = themes/interlude
+	url = https://github.com/samuelematias/interlude

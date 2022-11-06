@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       89B3F87E-A9BD-4C29-A452-654288394A5C
+:END:
+#+title: 🇧🇷 Inicie seu emacs como um serviço na incialização do macOS
+#+filetags: :ptbr:emacs:macos:
+
+⭐ [[http://localhost:1313/about/][Featured post]] ⭐
+
+    #+BEGIN_QUOTE
+    Para ler esse conteúdo em inglês, clique [[id:F79E68F6-9690-46DF-983A-7C0A2E93098E][aqui]].
+    #+END_QUOTE
+
+Se você deseja iniciar seus emacs como um serviço na incialização do macOS, você precisa ter instalado o [[https://github.com/d12frosted/homebrew-emacs-plus][Emacs plus]], e depois de instalado, execute este comando:
+
+    #+BEGIN_SRC bash
+    brew services start d12frosted/emacs-plus/emacs-plus
+    #+END_SRC

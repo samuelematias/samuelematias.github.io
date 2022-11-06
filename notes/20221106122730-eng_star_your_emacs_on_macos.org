@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       F79E68F6-9690-46DF-983A-7C0A2E93098E
+:END:
+#+title: 🇺🇸 Start your Emacs as a service on macOS startup
+#+filetags: :eng:emacs:macos:
+
+⭐ [[http://localhost:1313/about/][Featured post]] ⭐
+
+    #+BEGIN_QUOTE
+    To read this content in portuguese, click [[id:89B3F87E-A9BD-4C29-A452-654288394A5C][here]].
+    #+END_QUOTE
+
+If you want to start your Emacs as a service on the macOS startup, you need to have installed the [[https://github.com/d12frosted/homebrew-emacs-plus][Emacs plus]], and after you have installed, execute this command:.
+
+    #+BEGIN_SRC bash
+    brew services start d12frosted/emacs-plus/emacs-plus
+    #+END_SRC
