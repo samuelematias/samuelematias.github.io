@@ -2,8 +2,7 @@
 This website contains my articles, notes, food recipes, summing up, everything I think is worth to be sharing.
 I will be trying to share the content in English 🇺🇸 and Portuguese 🇧🇷.
 You can start checking out the index with everything I wrote so far.
-Have fun!</description></item><item><title>🇧🇷 Inicie seu emacs como um serviço na incialização do macOS</title><link>https://braindump.samuelematias.com/notes/20221106122730-ptbr_star_your_emacs_on_macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://braindump.samuelematias.com/notes/20221106122730-ptbr_star_your_emacs_on_macos/</guid><description>⭐ Featured post ⭐
-Para ler esse conteúdo em inglês, clique aqui .
+Have fun!</description></item><item><title>🇧🇷 Inicie seu emacs como um serviço na incialização do macOS</title><link>https://braindump.samuelematias.com/notes/20221106122730-ptbr_star_your_emacs_on_macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://braindump.samuelematias.com/notes/20221106122730-ptbr_star_your_emacs_on_macos/</guid><description> Para ler esse conteúdo em inglês, clique aqui .
 Se você deseja iniciar seus emacs como um serviço na incialização do macOS, você precisa ter instalado o Emacs plus , e depois de instalado, execute este comando:
 brew services start d12frosted/emacs-plus/emacs-plus</description></item><item><title>🇺🇸 Start your Emacs as a service on macOS startup</title><link>https://braindump.samuelematias.com/notes/20221106122730-eng_star_your_emacs_on_macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://braindump.samuelematias.com/notes/20221106122730-eng_star_your_emacs_on_macos/</guid><description>⭐ Featured post ⭐
 To read this content in portuguese, click here .
