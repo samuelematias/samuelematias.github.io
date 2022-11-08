@@ -2,7 +2,7 @@
 :ID:       F79E68F6-9690-46DF-983A-7C0A2E93098E
 :END:
 #+title: 🇺🇸 Start your Emacs as a service on macOS startup
-#+filetags: :eng:emacs:macos:
+#+filetags: :enus:emacs:macos:
 
 ⭐ [[https://braindump.samuelematias.com/about/][Featured post]] ⭐
 
